@@ -41,15 +41,15 @@ Other
 
 
 APIs
-- [ ] Braintree [www.juicetilt.herokuapp.com](http://juicetilt.herokuapp.com)
-- [ ] Stripe [www.bitenitedc.com](http://bitenitedc.com)
-- [ ] WePAy [www.fundzilla.herokuapp.com](http://fundzilla.herokuapp.com)
+- [ ] Braintree
+- [ ] Stripe
+- [ ] WePAy
 - [ ] Facebook
 - [ ] Twitter
-- [ ] Mailgun [www.bitenitedc.com](http://bitenitedc.com)
+- [ ] Mailgun
 - [ ] Mailchimp
 - [ ] Mandrill
 - [ ] oAuth
-- [ ] Twilio [www.bitenitedc.com](http://bitenitedc.com)
+- [ ] Twilio
 - [ ] Github
 - [ ] SendGrid
